@@ -1,0 +1,13 @@
+@import 'colors';
+
+.header{
+    background-color: green;
+    color: $steel;
+    width: 100%;
+    height: 150px;
+
+    a{
+    color: $steel;
+    font-size: 20px;
+    }
+}

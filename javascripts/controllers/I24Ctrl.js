@@ -1,0 +1,4 @@
+app.controller("I24Ctrl", function ($scope) {
+	$scope.highwayName = "Interstate 24";
+	$scope.desc = "Lorem ipsum dolor sit amet, alterum assueverit vim at. Vel errem appellantur ne, ex idque consequuntur nec, id nominati iudicabit sea. In qui labore persecuti comprehensam, iisque inermis has te, dolor utamur at eum. Cu noluisse consequat mei, aeque tempor in eam. An his meis oportere definitionem, ad est magna assentior. Quem suscipit petentium quo ut, ius propriae oporteat consulatu te. Ex usu voluptua incorrupte interpretaris, cum id modus etiam senserit, lucilius legendos partiendo sed ad. Vocent volutpat signiferumque et eos, ea eius sanctus facilisis nam. Usu cu solet laudem constituto, errem disputationi at est. Vim illum mundi primis id, eu graeco repudiare consequat vim.";
+});

@@ -1,0 +1,4 @@
+app.controller("I70Ctrl", function ($scope) {
+	$scope.highwayName = "Interstate 70";
+	$scope.desc = "Sed error option offendit id, per an alii atqui platonem, cum at natum ponderum ocurreret. Cum nominavi epicurei percipit ne, te utroque sensibus sea, in qui inermis neglegentur. Falli concludaturque eum ad, mea no assum alienum. Vis ex vocent verear officiis, movet diceret te vim. In autem praesent forensibus per, ad quaestio salutandi consequat usu. In ius aeterno labores petentium, in quo odio instructior, id his stet audire lobortis. An nam iuvaret postulant molestiae, eu utamur salutatus efficiendi his. Ut per clita persecuti, laudem iudicabit sadipscing cum ad, oblique offendit delicata ne mel. Sumo graeci aliquid ne nam, nobis tantas et pri, nonumy minimum vis te. Oblique suscipiantur eu pro, ad malis erant fuisset vel. Pro nulla percipitur ad, prompta alterum inermis ea pri, at possit repudiandae eum.";
+});
